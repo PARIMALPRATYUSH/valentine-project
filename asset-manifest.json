@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alentine-project/static/css/main.6a9f7f1c.css",
+    "main.js": "/alentine-project/static/js/main.2b6bfab3.js",
+    "static/js/592.3486f830.chunk.js": "/alentine-project/static/js/592.3486f830.chunk.js",
+    "index.html": "/alentine-project/index.html",
+    "main.6a9f7f1c.css.map": "/alentine-project/static/css/main.6a9f7f1c.css.map",
+    "main.2b6bfab3.js.map": "/alentine-project/static/js/main.2b6bfab3.js.map",
+    "592.3486f830.chunk.js.map": "/alentine-project/static/js/592.3486f830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9f7f1c.css",
+    "static/js/main.2b6bfab3.js"
+  ]
+}

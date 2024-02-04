@@ -32,7 +32,7 @@ function App() {
       {!yesPressed ? (
         <>
           
-          <img src="https://tenor.com/view/bear-love-heart-jumping-jump-gif-17246531" alt="Custom GIF" />
+          <img src="https://media1.tenor.com/m/Vy46BTSo3hsAAAAC/bear-love.gif" alt="Custom GIF" />
           <div>Will you be my Valentine?</div>
           <div className='buttons'>
             <button 
@@ -48,8 +48,8 @@ function App() {
       ):
        (
           <>
-          <img src="path/to/your-custom-gif.gif" alt="Custom GIF" />
-          <div>Yay!!!</div>
+          <img src="https://media.tenor.com/qzfYux1DBlAAAAAi/bear-cute.gif" alt="Custom GIF" />
+          <div>Yayyy!!!</div>
           </>
       )}
     </div>

@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+
+button.yes {
+  background-color: #25d36e;
+  color: #fff;
+  border: #25d36e;
+  margin: 10px;
+}
+
+button.no {
+  background-color: #f6443e;
+  color: #fff;
+  border: #f6443e;
+  margin: 10px;
+  border-radius: 3px;
+}
